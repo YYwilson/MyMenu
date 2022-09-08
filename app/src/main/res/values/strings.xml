@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyMenu</string>
+    <string name="menu_settings">Settings</string>
+    <string name="submenu_item1">Item 1</string>
+    <string name="submenu_item2">Item 2</string>
+    <string name="download_item">Download</string>
+</resources>
